@@ -1,2 +1,4 @@
 syinterferopy/__pycache__/*
 readme_figure/*
+dist/
+SyInterferoPy.egg-info/

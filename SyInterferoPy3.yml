@@ -10,6 +10,8 @@ dependencies:
   - spyder                                # 
   - scipy
   - geopy                                 # 
+  # for releasing
+  - setuptools=60.5.0 
   - shapely                               # for srtm-dem-tools
   - pyshp                                 # for srtm-dem-tools
   - netcdf4                               # for srtm-dem-tools
