@@ -6,9 +6,9 @@ authors = ["M. E. Gaddes <eemeg@leeds.ac.uk>"]
 
 [tool.poetry.dependencies]
 python = "^3.6"
-matplotlib = "3.3.0"
+matplotlib = "3.3.4"
 numpy = "1.19.5"
-scipy = "1.5.0"
+scipy = "1.5.4"
 geopy = "2.2.0"
 Shapely = "1.8.0"
 pyshp = "2.2.0"
@@ -17,7 +17,7 @@ wget = "3.2"
 
 [tool.poetry.dependencies.srtm-dem-tools]
 git = "https://github.com/bozso/SRTM-DEM-tools"
-rev = "72f7e9978074d0e6ddec5946386abae3c2254791"
+rev = "375dd8d1b8940ac7b6daa6f4a3a69912e4e1f4d7"
 
 [tool.poetry.dev-dependencies]
 
