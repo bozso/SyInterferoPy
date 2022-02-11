@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "syinterferopy"
+version = "0.1.0"
+description = ""
+authors = ["M. E. Gaddes <eemeg@leeds.ac.uk>"]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+matplotlib = "3.3.0"
+numpy = "1.19.5"
+scipy = "1.5.0"
+geopy = "2.2.0"
+Shapely = "1.8.0"
+pyshp = "2.2.0"
+netCDF4 = "1.5.8"
+wget = "3.2"
+
+[tool.poetry.dependencies.srtm-dem-tools]
+git = "https://github.com/bozso/SRTM-DEM-tools"
+rev = "72f7e9978074d0e6ddec5946386abae3c2254791"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

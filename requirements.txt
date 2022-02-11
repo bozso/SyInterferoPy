@@ -42,11 +42,11 @@ ipykernel @ file:///tmp/build/80754af9/ipykernel_1633534655931/work/dist/ipykern
 ipython @ file:///tmp/build/80754af9/ipython_1643818145072/work
 ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
 isort @ file:///tmp/build/80754af9/isort_1628603791788/work
-jedi @ file:///opt/conda/conda-bld/jedi_1642692183413/work
+jedi @ file:///tmp/build/80754af9/jedi_1644297102865/work
 jeepney @ file:///tmp/build/80754af9/jeepney_1627537048313/work
 Jinja2 @ file:///tmp/build/80754af9/jinja2_1612213139570/work
 jinja2-time @ file:///tmp/build/80754af9/jinja2-time_1617751524098/work
-jsonschema @ file:///Users/ktietz/demo/mc3/conda-bld/jsonschema_1630511932244/work
+jsonschema @ file:///tmp/build/80754af9/jsonschema_1632891430711/work
 jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1616770841739/work
 jupyter-core @ file:///tmp/build/80754af9/jupyter_core_1636537028672/work
 jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
@@ -84,7 +84,7 @@ pycodestyle @ file:///tmp/build/80754af9/pycodestyle_1615748559966/work
 pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
 pydocstyle @ file:///tmp/build/80754af9/pydocstyle_1621600989141/work
 pyflakes @ file:///tmp/build/80754af9/pyflakes_1617200973297/work
-Pygments @ file:///tmp/build/80754af9/pygments_1629234116488/work
+Pygments @ file:///opt/conda/conda-bld/pygments_1644249106324/work
 pylint @ file:///tmp/build/80754af9/pylint_1627536788603/work
 pyls-spyder==0.4.0
 pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
