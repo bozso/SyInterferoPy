@@ -17,7 +17,7 @@ wget = "3.2"
 
 [tool.poetry.dependencies.srtm-dem-tools]
 git = "https://github.com/bozso/SRTM-DEM-tools"
-rev = "375dd8d1b8940ac7b6daa6f4a3a69912e4e1f4d7"
+rev = "1cc7c361e6414a9627d151560b4e45d7481ed0cf"
 
 [tool.poetry.dev-dependencies]
 
